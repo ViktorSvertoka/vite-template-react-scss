@@ -127,7 +127,7 @@ Error generating stack: `+o.message+`
   width: 40px;
   height: 40px;
   object-fit: cover;
-`,Ip="/vite-template-react-scss/assets/example-def0f7cb.png",pg=()=>z.jsxs(cg,{children:[z.jsx(fg,{children:"First Page"}),z.jsx(dg,{src:Ip,alt:"Example"})]}),hg=Me.div`
+`,Ip="/vite-template-react-scss/assets/example-fcca5c32.png",pg=()=>z.jsxs(cg,{children:[z.jsx(fg,{children:"First Page"}),z.jsx(dg,{src:Ip,alt:"Example"})]}),hg=Me.div`
   display: flex;
   justify-content: center;
   align-items: center;
